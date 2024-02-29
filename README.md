@@ -2,20 +2,20 @@
 
 This is a simple blog application built using React.js and React Router. It allows users to create posts with titles, descriptions, and images, and view them in a list or in detail.
 
-Features 
+## Features 
 
 - Add new posts with titles, descriptions, and images.
 - View all posts in a list format.
 - View individual post details.
 - Responsive design for mobile and desktop.
 
-Technologies Used
+## Technologies Used
 
 - React.js
 - React Router
 - HTML/CSS
 
-Installation
+## Installation
 
 1. Clone the repository to your local machine:
 
@@ -35,20 +35,20 @@ npm start
 
 5. Open your browser and navigate to [http://localhost:3000](http://localhost:3000) to view the app.
 
-Usage
+## Usage
 
 - Click on the "Add Post" link in the navigation bar to create a new post. Fill in the title, description, and upload an image.
 - Click on a post from the list to view its details.
 - Navigate back to the home page by clicking on the "Home" link in the navigation bar.
 
-Contributing
+## Contributing
 
 Contributions are welcome! Feel free to open an issue or submit a pull request.
 
-License
+## License
 
 This project is licensed under the MIT License.
 
-Acknowledgements
+## Acknowledgements
 
 - This project was created as part of a React.js learning exercise.
