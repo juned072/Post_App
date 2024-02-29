@@ -1,4 +1,4 @@
-Simple Blog App
+## Simple Blog App
 
 This is a simple blog application built using React.js and React Router. It allows users to create posts with titles, descriptions, and images, and view them in a list or in detail.
 
