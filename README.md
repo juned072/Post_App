@@ -19,7 +19,7 @@ This is a simple blog application built using React.js and React Router. It allo
 
 1. Clone the repository to your local machine:
 
-git clone https://github.com/your-username/simple-blog-app.git
+git clone https://github.com/juned072/Post_App.git
 
 2. Navigate to the project directory:
 
