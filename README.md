@@ -13,7 +13,6 @@ This is a simple blog application built using React.js and React Router. It allo
 
 - React.js
 - React Router
-- HTML/CSS
 
 ## Installation
 
